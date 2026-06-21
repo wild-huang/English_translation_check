@@ -1,10 +1,10 @@
 # 这是一个用来检查英语翻译的东西
 
 > powered by AI
-
 > 使用Opencode&XiaomiMimo构建
-
 >使用flutter构建
+>这是个安卓应用谢谢喵，支持32位和64位的系统喵，最低支持安卓8.0喵
+>点个star谢谢喵
 
 # features
 
